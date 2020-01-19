@@ -1,4 +1,10 @@
 \documentclass{article}
+\usepackage{siunitx} % Required for alignment
+
+\sisetup{
+  round-mode          = places, % Rounds numbers
+  round-precision     = 2, % to 2 places
+}
 
 \begin{document}
 
@@ -6,7 +12,7 @@
   \begin{center}
     \caption{Your first table.}
     \label{tab:table1}
-    \begin{tabular}{l|c|r} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
+    \begin{tabular}{l|S|r} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
       \textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
       $\alpha$ & $\beta$ & $\gamma$ \\
       \hline
