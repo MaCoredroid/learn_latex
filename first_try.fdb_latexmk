@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1579413990 "g:/learn_latex/first_try.tex" "g:\learn_latex/first_try.pdf" "first_try" 1579413990
+["pdflatex"] 1579414223 "g:/learn_latex/first_try.tex" "g:\learn_latex/first_try.pdf" "first_try" 1579414224
   "d:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1578541789 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1578541257 1524 4414a8315f39513458b80dfc63bff03a ""
   "d:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1578541257 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -20,13 +20,13 @@
   "d:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1578543980 4776288 abb11d2375f30e67a20dbd4f9505e30d ""
   "d:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1578544070 4290736 27a3dc65935e64c5952dee28264ae95b ""
   "d:/texlive/2019/texmf.cnf" 1578543962 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "first_try.aux" 1579413990 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "first_try.tex" 1579413989 170 b7cb105e5eb6ea799ffccc4bcfefca9b ""
-  "g:/learn_latex/first_try.tex" 1579413989 170 b7cb105e5eb6ea799ffccc4bcfefca9b ""
-  "g:\learn_latex/first_try.aux" 1579413990 8 a94a2480d3289e625eea47cd1b285758 ""
+  "first_try.aux" 1579414224 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "first_try.tex" 1579414222 222 fc041580866050358178640c49fe43b2 ""
+  "g:/learn_latex/first_try.tex" 1579414222 222 fc041580866050358178640c49fe43b2 ""
+  "g:\learn_latex/first_try.aux" 1579414224 8 a94a2480d3289e625eea47cd1b285758 ""
   (generated)
+  "first_try.log"
+  "g:\learn_latex/first_try.pdf"
   "first_try.pdf"
   "g:\learn_latex/first_try.log"
   "first_try.aux"
-  "first_try.log"
-  "g:\learn_latex/first_try.pdf"

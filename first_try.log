@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.9)  19 JAN 2020 14:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.9)  19 JAN 2020 14:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -38,14 +38,14 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
+(Font)              <6> on input line 9.
  [1
 
-{d:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (g:\learn_latex/first_try.aux) ) 
+{d:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1] (g:\learn_latex/first_try.aux) ) 
 Here is how much of TeX's memory you used:
  238 strings out of 492163
  2643 string characters out of 6129077
@@ -55,7 +55,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  25i,6n,19p,143b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on g:\learn_latex/first_try.pdf (2 pages, 31108 bytes).
+Output written on g:\learn_latex/first_try.pdf (2 pages, 30920 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
