@@ -1,0 +1,17 @@
+PWD g:/learn_latex
+INPUT d:/texlive/2019/texmf.cnf
+INPUT d:/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT d:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT g:/learn_latex/first_try.tex
+OUTPUT g:\learn_latex/first_try.log
+INPUT d:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+INPUT g:\learn_latex/first_try.aux
+INPUT g:\learn_latex/first_try.aux
+OUTPUT g:\learn_latex/first_try.aux
+OUTPUT g:\learn_latex/first_try.pdf
+INPUT d:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT g:\learn_latex/first_try.aux
+INPUT d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
