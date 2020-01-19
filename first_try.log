@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.9)  19 JAN 2020 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.9)  19 JAN 2020 17:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -37,35 +37,26 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
- (g:\learn_latex/first_try.lof
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1.
+(Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1.
-)
-\tf@lof=\write3
-\openout3 = `first_try.lof'.
+(Font)              <5> on input line 9.
+ [1
 
- (g:\learn_latex/first_try.lot)
-\tf@lot=\write4
-\openout4 = `first_try.lot'.
-
- [1{d:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-] (g:\learn_latex/first_try.aux) ) 
+{d:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (g:\learn_latex/first_try.aux) ) 
 Here is how much of TeX's memory you used:
- 233 strings out of 492163
- 2654 string characters out of 6129077
+ 221 strings out of 492163
+ 2474 string characters out of 6129077
  62726 words of memory out of 5000000
- 4676 multiletter control sequences out of 15000+600000
- 4245 words of font info for 16 fonts, out of 8000000 for 9000
+ 4671 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,4n,19p,165b,141s stack positions out of 5000i,500n,10000p,200000b,80000s
-<d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on g:\learn_latex/first_try.pdf (1 page, 23200 bytes).
+ 25i,8n,19p,169b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on g:\learn_latex/first_try.pdf (1 page, 31533 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 20 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
